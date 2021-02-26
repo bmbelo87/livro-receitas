@@ -1,6 +1,6 @@
-#Strogonofe de Frango# :chicken:
+# Strogonofe de Frango :chicken:
 
-###Ingredientes###
+### Ingredientes
 
 * 1 quilo de peito de frango sem pele
 * 1 tablete de caldo de galinha
@@ -12,7 +12,7 @@
 * Champignon
 * Batata palha e arroz branco para acompanhar
 
-###Modo de Preparo###
+### Modo de Preparo
 
 1. Em uma panela a fogo médio, acrescente o óleo e o caldo de galinha e mexa até dissolver. Em seguida coloque o frango picado em cubos na panela e deixe cozinhar.
 2. Assim que o frango estiver bem cozido, acrescente o molho de tomate, o ketchup, a mostarda e o champignon a gosto.
